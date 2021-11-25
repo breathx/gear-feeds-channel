@@ -1,6 +1,5 @@
 tasks:
-  - before: |
-    echo 'export CARGO_HOME="/home/gitpod/.cargo"' >> ~/.bashrc
+  - before: echo 'export CARGO_HOME="/home/gitpod/.cargo"' >> ~/.bashrc
 
 vscode:
   extensions:
