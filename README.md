@@ -1,3 +1,5 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/breathx/gear-feeds-channel)
+
 # 📰 Gear Feeds Channel
 
 An example of a feeds channel program.
